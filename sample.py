@@ -1,6 +1,7 @@
 def add():
   a,b=5,10
-  print(a+b)
+  c=a+b
+  print(c)
   if __name__=="__main__":
   add()
   
